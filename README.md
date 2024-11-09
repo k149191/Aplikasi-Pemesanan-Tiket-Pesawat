@@ -7,16 +7,25 @@ Kelompok 2:
 
 
 # Menu Utama
-![PA-Menu Utama drawio (1)](https://github.com/user-attachments/assets/015ccf4f-7e3a-454a-bf52-116eb072e76f)
+![PA-Menu Utama drawio (2)](https://github.com/user-attachments/assets/25192355-1eba-4eb2-a16f-cb3ba49bf700)
 
 # Registrasi 
-![PA-Register drawio (1)](https://github.com/user-attachments/assets/783e1c9b-e1a3-435e-8eff-aea39bffa8c1)
+![PA-Register drawio (3)](https://github.com/user-attachments/assets/a68b62d9-c7ca-487f-a686-339b56af4eb5)
 
 # Login
-![PA-Login drawio (1)](https://github.com/user-attachments/assets/fdf0f220-8340-4c72-ba16-940e204d1a72)
+![PA-Login drawio (2)](https://github.com/user-attachments/assets/b4680f14-94c2-4f73-a60e-9f0c48ba0ed6)
 
 # Menu Admin
-![PA-Menu Admin drawio (4)](https://github.com/user-attachments/assets/4f49b1fc-d4ba-44e8-be49-da1ac2a40945)
+![PA-Menu Admin drawio (5)](https://github.com/user-attachments/assets/29925237-b38b-4850-8553-3950908f34b2)
+
+# Tambah Tiket
+![PA-Tambah Tiket drawio (1)](https://github.com/user-attachments/assets/4f282b6f-b032-4896-95a8-ec076f91f3a5)
+
+# Hapus Tiket
+![PA-Hapus Tiket drawio](https://github.com/user-attachments/assets/0b4eff19-73ae-4656-9b5d-719cf4da120e)
+
+# Update Tiket
+
 
 # Menu Customer
 ![PA-Menu Customer drawio (2)](https://github.com/user-attachments/assets/ea90ded6-6ea2-440b-981d-304e139bc726)
