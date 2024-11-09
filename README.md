@@ -1,5 +1,8 @@
 # Aplikasi-Pemesanan-Tiket-Pesawat
+<<<<<<< patch-1
 
+=======
+>>>>>>> main
 Kelompok 2:
 
 1.	CHIQO NANDA RIAL PRATAAMA	(2409116046) 
@@ -26,7 +29,10 @@ Kelompok 2:
 ![PA-Hapus Tiket drawio](https://github.com/user-attachments/assets/0b4eff19-73ae-4656-9b5d-719cf4da120e)
 
 # Update Tiket
+<<<<<<< patch-1
 jhhh
+=======
+>>>>>>> main
 
 # Menu Customer
 ![PA-Menu Customer drawio (2)](https://github.com/user-attachments/assets/ea90ded6-6ea2-440b-981d-304e139bc726)
