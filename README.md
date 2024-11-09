@@ -16,15 +16,16 @@ Kelompok 2:
 ![PA-Login drawio (2)](https://github.com/user-attachments/assets/b4680f14-94c2-4f73-a60e-9f0c48ba0ed6)
 
 # Menu Admin
-![PA-Menu Admin drawio (5)](https://github.com/user-attachments/assets/29925237-b38b-4850-8553-3950908f34b2)
+![PA-Menu Admin drawio (7)](https://github.com/user-attachments/assets/3faa6080-1dba-4df6-81ae-5de656541a3c)
 
 # Tambah Tiket
-![PA-Tambah Tiket drawio (1)](https://github.com/user-attachments/assets/4f282b6f-b032-4896-95a8-ec076f91f3a5)
+![PA-Tambah Tiket drawio (2)](https://github.com/user-attachments/assets/e1972a0b-1729-47db-be65-0c2bb8aeac13)
 
 # Hapus Tiket
 ![PA-Hapus Tiket drawio](https://github.com/user-attachments/assets/0b4eff19-73ae-4656-9b5d-719cf4da120e)
 
 # Update Tiket
+![PA-Update Tiket drawio](https://github.com/user-attachments/assets/15f51e32-7f9f-44ae-8f0c-dce752d3a631)
 
 # Menu Customer
 ![PA-Menu Customer drawio (2)](https://github.com/user-attachments/assets/ea90ded6-6ea2-440b-981d-304e139bc726)
