@@ -139,12 +139,26 @@ Dan jika PIN salah, customer tidak bisa melakukan top up saldo dan akan dikembal
 
 ![Screenshot 2024-11-09 225033](https://github.com/user-attachments/assets/372abff5-7f6c-44e6-97f8-89f7eb8df6c0)
 
-Jika memilih pilihan 4. 
+Jika memilih pilihan 4. Ubah Identitas akan memilih ingin mengubah identitas username/password/PIN/keluar.
+ Jika memilih ubah identitas username akan diminta untuk memasukkan username baru.
+ 
+ ![WhatsApp Image 2024-11-09 at 23 10 02_a3548b90](https://github.com/user-attachments/assets/c8589534-37ee-40d5-99c6-320bb2607274)
+
+ Jika memilih ubah identitas password akan diminta untuk memasukkan password baru.
+
+ ![WhatsApp Image 2024-11-09 at 23 11 10_f0642f97](https://github.com/user-attachments/assets/aaaa8106-2904-49df-a5aa-a2fd34a7cb67)
+
+ Jika memilih ubah identitas PIN akan diminta untuk memasukkan PIN baru.
+ 
+![WhatsApp Image 2024-11-09 at 23 12 05_d606fd6e](https://github.com/user-attachments/assets/c9e91cbd-7a31-410f-8cba-e2347200c209)
+
+Jika memilih untuk keluar, maka akan kembali ke menu customer.
+
+![WhatsApp Image 2024-11-09 at 23 17 22_e25036e3](https://github.com/user-attachments/assets/16e08be3-faef-42f4-abfa-4f9d345bf7b5)
 
 Jika memilih pilihan 5. Keluar, Akan terkeluar dari menu customer dan akan kembali ke menu utama.
 
 ![Screenshot 2024-11-09 230736](https://github.com/user-attachments/assets/937571ca-a431-4c15-a9a7-24d9966e226d)
-
 
 # Keluar Pada Menu Utama
 ![Screenshot 2024-11-09 213504](https://github.com/user-attachments/assets/2f08fdd9-6d4d-466d-9d5e-b7109df24bf2)
