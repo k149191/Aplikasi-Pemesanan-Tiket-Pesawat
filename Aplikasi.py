@@ -655,7 +655,7 @@ def beli_tiket(username, pin):
     except KeyboardInterrupt:
         print("\n         Pembelian dibatalkan oleh pengguna.")
     except Exception as e:
-        print(f"                 Terjadi kesalahan: {e}")
+        print(f"{e}")
 
 # -------------------------------------------------------
 # INVOICE
