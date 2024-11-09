@@ -39,100 +39,113 @@ Kelompok 2:
 # Ubah Identitas
 ![PA-Ubah Identitas drawio](https://github.com/user-attachments/assets/6a2e0e95-09cd-4e00-9379-649e7d8108db)
 
-## OUTPUT
+# Output
+
+#Menu Utama
 ![Screenshot 2024-11-09 210333](https://github.com/user-attachments/assets/e9ef5e8f-ec80-42fb-b570-be6e5cd3b12b)
 
-Jika nama telah digunakan
+# Registrasi
+Saat melakukan registrasi pastikan namanya belum digunakan, ketika nama telah digunakan registrasi akan gagal. 
+
 ![Screenshot 2024-11-09 210349](https://github.com/user-attachments/assets/52f0d02c-dcf4-478c-adbe-4816386ccdde)
 
-registrasi berhasil
+Pastikan memasukkan nama yang belum terdaftar dan password yang sesuai, sehingga registrasi akan berhasil.
+
 ![Screenshot 2024-11-09 212820](https://github.com/user-attachments/assets/38782ffa-3743-4f41-a722-a06b7867f3aa)
 
-login berhasil sebagai customer
+# Login 
+
+Login berhasil sebagai customer.
+
 ![Screenshot 2024-11-09 213134](https://github.com/user-attachments/assets/573ceb9d-4d7e-4aec-a8ff-b236dea7ea6b)
 
-login berhasil sebagai admin
+Login berhasil sebagai admin.
+
 ![Screenshot 2024-11-09 213557](https://github.com/user-attachments/assets/35088d9c-f3b2-4ee9-9e31-5a9a27cda38f)
 
-JIka nama atau pasword tidak ditemukan
+JIka nama atau password tidak ditemukan saat login.
+
 ![Screenshot 2024-11-09 213358](https://github.com/user-attachments/assets/8ee7a46c-b0ae-4a7c-9f14-6343f4551b57)
 
-ADMIN
-X
+# Menu Admin
+
+Jika memilih pilihan 1. Tambah Tiket, dan memilih X untuk keluar.
+
 ![Screenshot 2024-11-09 215651](https://github.com/user-attachments/assets/fcd4858c-5ff4-4e5d-8e01-c729db52ebe6)
 
-YA
+Jika memilih pilihan 1. Tambah Tiket, dan memilih YA untuk lanjut. Akan di diminta memasukkan ID, maskapai, tanggal dan jam, kota asal, kota tujuan, harga tiket first class, harga tiket business class, harga tiket economy class, gate, dan estimasi durasi perjalanan. Setelahnya akan terdapat estimasi waktu kedatangan dan tiket berhasil ditambahkan.
+
 ![Screenshot 2024-11-09 215825](https://github.com/user-attachments/assets/d9ba5541-67d7-46ed-83c7-a21b46ba7534)
 
-ID ANGKA 
+Jika saat memasukkan ID yang harus berupa angka, tetapi salah memasukkan huruf akan terulang untuk memasukkan ID kembali.
+
 ![Screenshot 2024-11-09 215855](https://github.com/user-attachments/assets/02346660-83b5-4d9f-8459-71e5ceb22770)
 
-TANGGAL DAN JAM HARUS SEUSI FORMAT
+Jika saat memasukkan tanggal dan jam penerbangan yang harus sesuai format, tetapi salah memasukkan format atau ada yang tertinggal maka akan terulang untuk memasukkan tanggal dan jam penerbangan kembali.
+
 ![Screenshot 2024-11-09 215935](https://github.com/user-attachments/assets/fb717d8b-634c-4213-9218-6d36087a6426)
 
-ESTIMASI
+Jika saat memasukkan estimasi penerbangan yang harus sesuai format, tetapi salah memasukkan format atau ada yang tertinggal maka akan terulang untuk memasukkan estimasi jam penerbangan kembali.
+
 ![Screenshot 2024-11-09 220145](https://github.com/user-attachments/assets/08eb02da-6d81-4d19-9502-7a5110860b12)
 
+Jika memilih pilihan 2. Lihat Tiket, akan menampilkan tabel tiket.
 
-LIHAT TIKET
 ![Screenshot 2024-11-09 220228](https://github.com/user-attachments/assets/b6f1d17d-e2bb-47f6-9bcf-faef755614b0)
 
-HAPUS TIKET 
-X
+Jika memilih pilihan 3. Hapus Tiket,  dan memilih X untuk keluar.
+
 ![Screenshot 2024-11-09 220251](https://github.com/user-attachments/assets/6ff45231-d44c-4776-81a5-43938126a889)
 
-YA
-![Screenshot 2024-11-09 220437](https://github.com/user-attachments/assets/aaabf743-e6fd-465b-97cd-74baff77fcd1)
+Jika memilih pilihan 3. Hapus Tiket,  dan memilih YA untuk lanjut. Akan diminta memasukkan ID tiket, jika ID tiket tidak ditemukan akan dikembalikan ke pilihan YA/X.
 
-ID TIDAK DITEMUKAN
 ![Screenshot 2024-11-09 220328](https://github.com/user-attachments/assets/29bd0e91-e677-4f4e-a782-47573a0f33f8)
 
-UPDATE 
-X
+Dan apabila ID tiket ada, maka tiket akan terhapus.
+
+![Screenshot 2024-11-09 220437](https://github.com/user-attachments/assets/aaabf743-e6fd-465b-97cd-74baff77fcd1)
+
+Jika memilih pilihan 4. Update Tiket, akan tertampilakan tabel tiket dan apabila memilih X untuk keluar. akan terkeluar dan kembali ke menu admin.
+
 ![Screenshot 2024-11-09 220527](https://github.com/user-attachments/assets/bba03084-7aee-4ab5-8173-978ae741ec1e)
 
-YA
+Jika memilih pilihan 4. Update Tiket, akan tertampilakan tabel tiket dan apabila memilih YA untuk lanjut. Akan di diminta memasukkan ID, maskapai baru, tanggal dan jam baru, kota asal baru, kota tujuan baru, harga tiket first class baru, harga tiket business class baru, harga tiket economy class baru, gate baru, dan estimasi durasi perjalanan baru. Setelahnya akan terdapat estimasi waktu kedatangan dan tiket berhasil ditambahkan.
+
 ![Screenshot 2024-11-09 221152](https://github.com/user-attachments/assets/f4667a69-73a3-4a35-bb66-c26cd2ee8956)
 
-KELUAR MENU ADMIN
+Jika memilih pilihan 5. Keluar. Akan terkeluar dari menu admin, dan kembali ke menu utama.
+
 ![Screenshot 2024-11-09 221222](https://github.com/user-attachments/assets/355f0d23-e559-40fa-99ba-87ed92b40ff9)
 
+#  Menu Customer
 
-Keluar 
+Jika memilih pilihan 1. Lihat Tiket, akan menampilkan tabel tiket.
+
+![Screenshot 2024-11-09 224846](https://github.com/user-attachments/assets/e0962b3e-52b3-4223-ad47-9f8abd09f259)
+
+Jika memilih pilihan 2. Beli Tiket. Ketika PIN salah, maka tidak bisa melakuakan pemebelian tiket dan akan kembali ke menu customer.
+
+![Screenshot 2024-11-09 225033](https://github.com/user-attachments/assets/b9060162-6628-4a34-80f4-67f3634a04c8)
+
+Dan ketika PIN benar. Akan diminta untuk memasukkan ID tiket yang ingin dibeli, lalu akan diminta memilih kelas kursi dan nomor kursi. Ketika pembelian berhasil akan ditampilakam karcis pembelian.
+
+![Screenshot 2024-11-09 225340](https://github.com/user-attachments/assets/fbbe801c-a7cc-49fd-8f89-45d9afb82e65)
+
+Jika memilih pilihan 3. Top Up Saldo. Untuk mentop up saldo akan diminta untuk memasukan PIN sat PIN benar. Akan ditampilakan saldo saat ini dan custoner bisa melakukan top up saldo dengan maksimal Rp. 10.000.000.
+
+![Screenshot 2024-11-09 225640](https://github.com/user-attachments/assets/bfcc0aa6-756d-4af7-ae06-bda671a535b4)
+
+Dan jika PIN salah, customer tidak bisa melakukan top up saldo dan akan dikembaliakan ke menu customer.
+
+![Screenshot 2024-11-09 225033](https://github.com/user-attachments/assets/372abff5-7f6c-44e6-97f8-89f7eb8df6c0)
+
+Jika memilih pilihan 4. 
+
+Jika memilih pilihan 5. Keluar, Akan terkeluar dari menu customer dan akan kembali ke menu utama.
+
+![Screenshot 2024-11-09 230736](https://github.com/user-attachments/assets/937571ca-a431-4c15-a9a7-24d9966e226d)
+
+
+# Keluar Pada Menu Utama
 ![Screenshot 2024-11-09 213504](https://github.com/user-attachments/assets/2f08fdd9-6d4d-466d-9d5e-b7109df24bf2)
-
-Menu admin
-![Screenshot 2024-11-09 213705](https://github.com/user-attachments/assets/e973e1a5-4c6e-4c97-adc3-1f642800af2f)
-
-Jika pilih 1, DAN YA
-![Screenshot 2024-11-09 213847](https://github.com/user-attachments/assets/a3d94251-82f9-4ed8-b97b-1c7155d38aa0)
-
-Jika X
-![Screenshot 2024-11-09 213859](https://github.com/user-attachments/assets/4a049fd2-2c92-4ec7-8e5d-626772f88120)
-
-ID SUDAH ADA
-![Screenshot 2024-11-09 214056](https://github.com/user-attachments/assets/2f260b10-7f26-45ee-b7d1-4634e74c585d)
-
-ID HARUS ANGKA
-![Screenshot 2024-11-09 213946](https://github.com/user-attachments/assets/882dee7b-576e-42d2-a2be-b5ce88eadae4)
-
-TANGGAL DAN F=JAM HARUS SESUAI FORMAT
-![Screenshot 2024-11-09 214007](https://github.com/user-attachments/assets/a38f0230-7574-40eb-9f55-0674e26fec4c)
-
-DURASI ESTIMAI PENERBANGAN HARUS SESUAI FORMAT
-![Screenshot 2024-11-09 214209](https://github.com/user-attachments/assets/557f0f2e-50dc-414a-8dcf-202f73410961)
-
-TABEL TIKET
-![Screenshot 2024-11-09 215016](https://github.com/user-attachments/assets/092c20cb-dede-471f-9b23-5ca4a27207dc)
-
-HAPUS TIKET
-JIKA X
-![Screenshot 2024-11-09 215144](https://github.com/user-attachments/assets/ff1d59e2-759c-46d7-8f18-9cb0ce0ee20c)
-
-JIKA YA
-![Screenshot 2024-11-09 215335](https://github.com/user-attachments/assets/5f3cf7f9-2b76-4a7e-a4cd-d30b17bbb419)
-
-
-TIKET TIDAK DITEMUKAN
-![Screenshot 2024-11-09 215243](https://github.com/user-attachments/assets/79f7f6ba-c247-4534-9181-677a7acc900d)
 
