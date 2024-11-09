@@ -1,0 +1,6 @@
+ID,Maskapai Penerbangan,Tanggal Keberangkatan,Kota Asal,Kota Tujuan,First Class,Business class,Economy Class,Gate,Estimasi Penerbangan
+001,AIR INDO,2024-11-13 12:00:00,Samarinda,Batam,10000000.0,5000000.0,2500000.0,01,2024-11-13 15:00:00
+002,Citizone,2024-11-14 13:30:00,Balikpapan,Sydney,100000000.0,2300000.0,1200000.0,02,2024-11-14 21:51:00
+003,AIR YAAAA,2024-12-11 10:10:00,Kuningan,Samarinda,100000.0,10000.0,1000.0,03,2024-12-11 11:10:00
+004,Citililoh,2024-12-01 10:10:00,Banjar,Vatican,2400000.0,1200000.0,600000.0,04,2024-12-01 22:10:00
+005,AIR DANI,2024-12-13 09:00:00,Tenggarong,Kutai Barat,1250000.0,750000.0,500000.0,05,2024-12-13 09:45:00
