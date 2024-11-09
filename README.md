@@ -1,4 +1,4 @@
-![PA-Menu Customer drawio (2)](https://github.com/user-attachments/assets/27790a52-f0be-4233-ab15-9ae721b278f6)# Aplikasi-Pemesanan-Tiket-Pesawat
+# Aplikasi-Pemesanan-Tiket-Pesawat
 Kelompok 2:
 
 1.	CHIQO NANDA RIAL PRATAAMA	(2409116046) 
