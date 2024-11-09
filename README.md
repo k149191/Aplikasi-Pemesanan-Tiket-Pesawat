@@ -1,19 +1,24 @@
-# Aplikasi-Pemesanan-Tiket-Pesawat
+![PA-Menu Customer drawio (2)](https://github.com/user-attachments/assets/27790a52-f0be-4233-ab15-9ae721b278f6)# Aplikasi-Pemesanan-Tiket-Pesawat
 Kelompok 2:
 
 1.	CHIQO NANDA RIAL PRATAAMA	(2409116046) 
 2.	RINI WULANDARI	(2409116047)
 3.	KHAIRUNISA APRILIA	(2409116060)
 
-![PA-Menu Utama drawio](https://github.com/user-attachments/assets/d2004944-dac8-4aee-ae4f-05e8dd94a8b9)
 
-![PA-Register drawio](https://github.com/user-attachments/assets/c17d3b7d-1251-49a2-9ca7-75576ffc014b)
+# Menu Utama
+![PA-Menu Utama drawio (1)](https://github.com/user-attachments/assets/015ccf4f-7e3a-454a-bf52-116eb072e76f)
 
-![PA-Login drawio](https://github.com/user-attachments/assets/5b0208b2-5d2e-40f3-84e4-5c67ce3cb8ba)
+# Registrasi 
+![PA-Register drawio (1)](https://github.com/user-attachments/assets/783e1c9b-e1a3-435e-8eff-aea39bffa8c1)
 
-![PA-Menu Admin drawio (3)](https://github.com/user-attachments/assets/847e16ac-77e5-4739-83ea-e9cb071e5f3d)
+# Login
+![PA-Login drawio (1)](https://github.com/user-attachments/assets/fdf0f220-8340-4c72-ba16-940e204d1a72)
 
-![PA-Menu Customer drawio (1)](https://github.com/user-attachments/assets/d8f6c853-cd5a-458e-9028-1ecf0ea3087a)
+# Menu Admin
+![PA-Menu Admin drawio (4)](https://github.com/user-attachments/assets/4f49b1fc-d4ba-44e8-be49-da1ac2a40945)
 
+# Menu Customer
+![PA-Menu Customer drawio (2)](https://github.com/user-attachments/assets/ea90ded6-6ea2-440b-981d-304e139bc726)
 
 
