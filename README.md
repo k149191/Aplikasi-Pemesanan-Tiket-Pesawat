@@ -57,44 +57,6 @@ login berhasil sebagai admin
 JIka nama atau pasword tidak ditemukan
 ![Screenshot 2024-11-09 213358](https://github.com/user-attachments/assets/8ee7a46c-b0ae-4a7c-9f14-6343f4551b57)
 
-Keluar 
-![Screenshot 2024-11-09 213504](https://github.com/user-attachments/assets/2f08fdd9-6d4d-466d-9d5e-b7109df24bf2)
-
-Menu admin
-![Screenshot 2024-11-09 213705](https://github.com/user-attachments/assets/e973e1a5-4c6e-4c97-adc3-1f642800af2f)
-
-Jika pilih 1, DAN YA
-![Screenshot 2024-11-09 213847](https://github.com/user-attachments/assets/a3d94251-82f9-4ed8-b97b-1c7155d38aa0)
-
-Jika X
-![Screenshot 2024-11-09 213859](https://github.com/user-attachments/assets/4a049fd2-2c92-4ec7-8e5d-626772f88120)
-
-ID SUDAH ADA
-![Screenshot 2024-11-09 214056](https://github.com/user-attachments/assets/2f260b10-7f26-45ee-b7d1-4634e74c585d)
-
-ID HARUS ANGKA
-![Screenshot 2024-11-09 213946](https://github.com/user-attachments/assets/882dee7b-576e-42d2-a2be-b5ce88eadae4)
-
-TANGGAL DAN F=JAM HARUS SESUAI FORMAT
-![Screenshot 2024-11-09 214007](https://github.com/user-attachments/assets/a38f0230-7574-40eb-9f55-0674e26fec4c)
-
-DURASI ESTIMAI PENERBANGAN HARUS SESUAI FORMAT
-![Screenshot 2024-11-09 214209](https://github.com/user-attachments/assets/557f0f2e-50dc-414a-8dcf-202f73410961)
-
-TABEL TIKET
-![Screenshot 2024-11-09 215016](https://github.com/user-attachments/assets/092c20cb-dede-471f-9b23-5ca4a27207dc)
-
-HAPUS TIKET
-JIKA X
-![Screenshot 2024-11-09 215144](https://github.com/user-attachments/assets/ff1d59e2-759c-46d7-8f18-9cb0ce0ee20c)
-
-JIKA YA
-![Screenshot 2024-11-09 215335](https://github.com/user-attachments/assets/5f3cf7f9-2b76-4a7e-a4cd-d30b17bbb419)
-
-
-TIKET TIDAK DITEMUKAN
-![Screenshot 2024-11-09 215243](https://github.com/user-attachments/assets/79f7f6ba-c247-4534-9181-677a7acc900d)
-
 ADMIN
 X
 ![Screenshot 2024-11-09 215651](https://github.com/user-attachments/assets/fcd4858c-5ff4-4e5d-8e01-c729db52ebe6)
@@ -134,4 +96,43 @@ YA
 
 KELUAR MENU ADMIN
 ![Screenshot 2024-11-09 221222](https://github.com/user-attachments/assets/355f0d23-e559-40fa-99ba-87ed92b40ff9)
+
+
+Keluar 
+![Screenshot 2024-11-09 213504](https://github.com/user-attachments/assets/2f08fdd9-6d4d-466d-9d5e-b7109df24bf2)
+
+Menu admin
+![Screenshot 2024-11-09 213705](https://github.com/user-attachments/assets/e973e1a5-4c6e-4c97-adc3-1f642800af2f)
+
+Jika pilih 1, DAN YA
+![Screenshot 2024-11-09 213847](https://github.com/user-attachments/assets/a3d94251-82f9-4ed8-b97b-1c7155d38aa0)
+
+Jika X
+![Screenshot 2024-11-09 213859](https://github.com/user-attachments/assets/4a049fd2-2c92-4ec7-8e5d-626772f88120)
+
+ID SUDAH ADA
+![Screenshot 2024-11-09 214056](https://github.com/user-attachments/assets/2f260b10-7f26-45ee-b7d1-4634e74c585d)
+
+ID HARUS ANGKA
+![Screenshot 2024-11-09 213946](https://github.com/user-attachments/assets/882dee7b-576e-42d2-a2be-b5ce88eadae4)
+
+TANGGAL DAN F=JAM HARUS SESUAI FORMAT
+![Screenshot 2024-11-09 214007](https://github.com/user-attachments/assets/a38f0230-7574-40eb-9f55-0674e26fec4c)
+
+DURASI ESTIMAI PENERBANGAN HARUS SESUAI FORMAT
+![Screenshot 2024-11-09 214209](https://github.com/user-attachments/assets/557f0f2e-50dc-414a-8dcf-202f73410961)
+
+TABEL TIKET
+![Screenshot 2024-11-09 215016](https://github.com/user-attachments/assets/092c20cb-dede-471f-9b23-5ca4a27207dc)
+
+HAPUS TIKET
+JIKA X
+![Screenshot 2024-11-09 215144](https://github.com/user-attachments/assets/ff1d59e2-759c-46d7-8f18-9cb0ce0ee20c)
+
+JIKA YA
+![Screenshot 2024-11-09 215335](https://github.com/user-attachments/assets/5f3cf7f9-2b76-4a7e-a4cd-d30b17bbb419)
+
+
+TIKET TIDAK DITEMUKAN
+![Screenshot 2024-11-09 215243](https://github.com/user-attachments/assets/79f7f6ba-c247-4534-9181-677a7acc900d)
 
